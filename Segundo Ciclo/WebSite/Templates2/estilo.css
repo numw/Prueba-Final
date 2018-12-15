@@ -1,0 +1,22 @@
+header{
+	background: red;
+	padding: 15px;
+	color: #ffffff;
+}
+
+#imagen{
+	width: 500px;
+	height: 500px;
+}
+.hola{
+	background: red;
+}
+.container{
+ 
+}
+ .color1{
+ 	color:red;
+ }
+ .etiqueta{
+ 	color: red;
+ }
